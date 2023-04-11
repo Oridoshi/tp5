@@ -4,7 +4,7 @@
 **IUT Le Havre - Cours GIT**
 
 # Compte-rendu TP Introduction GIT
-Dans ce premier TP, on apprend à travailler avec GIT.
+||Dans ce premier TP, on apprend à travailler avec GIT.||
 
 
 
